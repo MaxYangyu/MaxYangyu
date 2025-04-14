@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Hi, I'm MaxYangyu
 
-<!--
-**MaxYangyu/MaxYangyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer passionate about building high-quality user experiences and maintainable front-end architectures.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Career
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 **Suning**: Front-end Engineer / Senior Engineer
+- 🛍️ **Dewu**: Senior Engineer / Staff Engineer
+- 💳 **Alipay**: Staff Engineer
+- 🌍 **Bybit**: Tech Lead
+- 🤖 **MiniMax**: Currently working
+
+## 🛠️ Tech Stack
+
+- **Frameworks & Libraries**: Vue.js, React, TypeScript, Next.js、NestJS
+- **Build Tools**: Webpack, Vite, Rollup
+- **Engineering Practices**: Component Library Development, Performance Optimization, SSR, PWA
+- **Others**: Node.js, Mini Program Development, CI/CD, Micro-Frontend Architecture
+
+## 📫 Contact
+
+- Email: geiyangyu@gmail.com
